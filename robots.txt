@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://fevisoni.github.io/fevisoni.txt.gz
+Sitemap: https://fevisoni.github.io/app/fevisoni.txt.gz
+Sitemap: https://fevisoni.github.io/assets/fevisoni.txt.gz
+Sitemap: https://fevisoni.github.io/css/fevisoni.txt.gz
+Sitemap: https://fevisoni.github.io/includes/fevisoni.txt.gz
+Sitemap: https://fevisoni.github.io/item/fevisoni.txt.gz
+Sitemap: https://fevisoni.github.io/src/fevisoni.txt.gz
